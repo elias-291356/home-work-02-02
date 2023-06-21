@@ -19,6 +19,7 @@ body {
 
 .link {
     text-decoration: none;
+    font-family: "releway"sans-serif;
 }
 
 .logo-span-header {
@@ -57,4 +58,33 @@ body {
 .address-info:hover,
 .address-info:focus {
     color: #404bbf;
+}
+
+.section {
+    background-color: #2e2f42;
+}
+
+.caption {
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #ffffff;
+}
+
+.btn-banner {
+    background-color: #4D5AE5;
+    font-family: font-family: "Roboto", sans-serif;
+    font: weight 500px;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #ffffff;
+    cursor: pointer;
+}
+
+.btn-banner:hover,
+.btn-banner:focus {
+    background-color: #404BBF;
+
 }
